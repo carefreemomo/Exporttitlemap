@@ -1,0 +1,10 @@
+D:\Projects\AAOther\Program\ExportTitleMap\ExportTitleMap\ExportTitleMap\obj\Debug\ExportTitleMap.csprojAssemblyReference.cache
+D:\Projects\AAOther\Program\ExportTitleMap\ExportTitleMap\ExportTitleMap\obj\Debug\ExportTitleMap.Form1.resources
+D:\Projects\AAOther\Program\ExportTitleMap\ExportTitleMap\ExportTitleMap\obj\Debug\ExportTitleMap.Properties.Resources.resources
+D:\Projects\AAOther\Program\ExportTitleMap\ExportTitleMap\ExportTitleMap\obj\Debug\ExportTitleMap.csproj.GenerateResource.cache
+D:\Projects\AAOther\Program\ExportTitleMap\ExportTitleMap\ExportTitleMap\obj\Debug\ExportTitleMap.csproj.CoreCompileInputs.cache
+D:\Projects\AAOther\Program\ExportTitleMap\ExportTitleMap\ExportTitleMap\bin\Debug\ExportTitleMap.exe.config
+D:\Projects\AAOther\Program\ExportTitleMap\ExportTitleMap\ExportTitleMap\bin\Debug\ExportTitleMap.exe
+D:\Projects\AAOther\Program\ExportTitleMap\ExportTitleMap\ExportTitleMap\bin\Debug\ExportTitleMap.pdb
+D:\Projects\AAOther\Program\ExportTitleMap\ExportTitleMap\ExportTitleMap\obj\Debug\ExportTitleMap.exe
+D:\Projects\AAOther\Program\ExportTitleMap\ExportTitleMap\ExportTitleMap\obj\Debug\ExportTitleMap.pdb
